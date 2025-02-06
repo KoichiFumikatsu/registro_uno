@@ -223,17 +223,17 @@
 	                </div>
 	                <div class="tab-pane fade" id="asigna-justified" role="tabpanel" aria-labelledby="asigna-tab">
 	                	Asignar
-	                	Como asignas un Equipo
-	                	tomarias un Activo fijo y lo relacionas con el empleado? 
-	                	seria un update donde le das el id del empleado? 
-	                	efectivamente
-	                	Entonces este asignado debe de ir a la pagina para imprimir los dacumentos
-	                	o en vez de mandar a otra pagina, seria invocar el botton con los datos de los dos ids presentes :0 
+	                	seria invocar el botton con los datos de los dos ids presentes :0 
+	                	un input que tambien tenga la opcion de mostrar todos los datos 
 
+	                	ingresas los dos datos, un modal que pregunte si seguro quieres asignar y los datos asignados
+	                	el boton sera el que realice la asignacion. 
+	                	y me llevara a descargar el documento.
 	                </div>
 	                <div class="tab-pane fade" id="borra-justified" role="tabpanel" aria-labelledby="borra-tab">
 	                	Borrar
-	                	una descripcion y borrar
+	                	Descripcion de razon de Desasignacion o borrado.
+	                	Datos de Desvinculacion o Acivo fijo a borrar
 	                </div>
               	</div>
             <!-- Contenido de Tabs End -->
