@@ -20,7 +20,7 @@
 				break;
 			
 			case 'Procesos':
-				include("main/app/proceso.php");
+				include("main/app/procesos.php");
 				break;
 			
 			case 'Perfiles':
