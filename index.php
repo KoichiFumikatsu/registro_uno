@@ -26,6 +26,10 @@
 			case 'Perfiles':
 				include("main/app/profile.php");
 				break;
+			
+			case 'Items':
+				include("main/app/items.php");
+				break;
 		}
 	}else {
 		include("main/app/app.php");	

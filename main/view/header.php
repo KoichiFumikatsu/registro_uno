@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-		<title>Registro</title>
+		<title>AZC Group</title>
 		<meta content="" name="description">
 		<meta content="" name="keywords">
 
@@ -33,9 +33,9 @@
 		<!--Header-->
 		<header id="header" class="header fixed-top d-flex align-items-center justify-content-center">
 			<div class="d-flex align-items-center justify-content-between">
-				<a href="index.php" class="logo d-flex align-items-center">
+				<a href="/registro_uno/" class="logo d-flex align-items-center">
 					<img src="assets/img/logo.png" alt="">
-					<span class="d-flex d-lg-block">Grupo AZC S.A.S</span>
+					<span class="d-flex d-lg-block">AZC GROUP</span>
 				</a>
 			</div><!-- End Logo -->
 		</header>
